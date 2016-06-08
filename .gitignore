@@ -243,3 +243,8 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/WeatherForecast/WeatherForecast/Models/WeatherForecastTenDay.cs
+/WeatherForecast/WeatherForecast/Utilities/WeatherServiceHelper.cs
+/WeatherForecast/WeatherForecast/Utilities/ServiceCacheItem.cs
+/WeatherForecast/WeatherForecast/Utilities/ServiceCache.cs
+/WeatherForecast/WeatherForecast/Utilities/InProcServiceCache.cs
